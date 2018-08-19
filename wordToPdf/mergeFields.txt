@@ -1,0 +1,7 @@
+nombreFamiliaRetilap
+codigoRevision
+nombreFamiliaPie
+
+Tabla : 
+
+itemCode      subfamilyName	color 
