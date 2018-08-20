@@ -1,6 +1,6 @@
 from docx import Document
 from docx.shared import Inches,Cm
-
+#asdasdasd
 doc = Document('plantillaRetilap.docx')
 tables = doc.tables
 p = tables[2].rows[0].cells[0].add_paragraph()
